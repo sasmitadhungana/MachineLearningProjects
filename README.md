@@ -8,12 +8,3 @@ Projects Included:
 
 3️⃣ Linear Regression Projects
 
-
-Structure:
-MachineLearningProjects/
-│
-├─ CNN_Image_Classifier/
-├─ BreastCancerSVM/
-├─ Simplelinearregression/
-├─ Multiplelinearregression/
-└─ README.md
